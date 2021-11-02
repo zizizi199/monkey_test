@@ -1,0 +1,47 @@
+*{
+font-family: 'Roboto', sans-serif;
+}
+
+.quiz-box{
+    margin-top: 1%;
+    margin-left: 10%;
+    width: 700px;
+    height: 200px;
+    border-radius: 25px;
+}
+.question-text{
+    padding-left: 1%;
+    padding-top: 1%;
+
+}
+.answer-group{
+    margin: auto;
+    width: 100%;
+    padding: 5px;
+}
+
+button{
+    display: inline;
+    margin-top: 10px;
+    margin-right: 150px;
+    width: 24%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.return-btn{
+    width: 10%;
+}
+
+.category{
+    display: block;
+}
+.group-button{
+    padding: 10%;
+   width: 50%;
+}
+.category-btn{
+    margin-top:10%
+}
